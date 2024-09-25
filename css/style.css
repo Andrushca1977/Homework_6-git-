@@ -1,5 +1,11 @@
 header {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: blue;
-    font-size: large;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: blue;
+  font-size: large;
+}
+
+p {
+  color: blue;
+  display: block;
+  max-width: 800px;
 }

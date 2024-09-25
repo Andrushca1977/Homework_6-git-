@@ -4,8 +4,15 @@ header {
   font-size: large;
 }
 
-p {
+main {
   color: blue;
   display: block;
   max-width: 800px;
+}
+
+footer {
+  color: blue;
+  display: flex;
+  align-items: flex-end;
+  height: 400px;
 }
